@@ -16,8 +16,8 @@ DEFAULT_MODULE = os.environ.get("BHSA_MODULE", "2021")
 PROGRESS_INTERVAL = 50_000
 
 #Potent words?
-WORD_TO_SEARCH = "יהוה"
-# WORD_TO_SEARCH = "שלומ"
+# WORD_TO_SEARCH = "יהוה"
+WORD_TO_SEARCH = "שלומ"
 
 #Control words?
 # WORD_TO_SEARCH = "ציון" #Zion, 1x (Jer 2:7)
