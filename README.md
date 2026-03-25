@@ -305,13 +305,13 @@ A: The code is open source. The data is public. The methods are documented. Run 
 **Q: What's the significance for biblical interpretation?**  
 A: This suggests sophisticated redactional techniques in the post-exilic period and provides new evidence for understanding canonization processes, particularly for enigmatic books like Song of Songs.
 
-**Q: Has this been peer reviewed?**  
-A: Currently under review at *Digital Scholarship in the Humanities*. This repository provides transparency during the review process.
+**Q: Has this been peer reviewed?**
+A: A companion paper is in preparation for submission to a digital humanities journal. This repository provides transparency and reproducibility.
 
 ---
 
-**Last Updated**: January 2025
+**Last Updated**: March 2026
 
-**Status**: Under peer review
+**Status**: Active development
 
 **Feedback**: Issues and questions welcome via [GitHub Issues](https://github.com/[username]/mesologion-yhwh/issues)

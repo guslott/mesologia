@@ -15,8 +15,8 @@ from tf.fabric import Fabric
 ROOT = Path(__file__).resolve().parent
 BHSA_TF_DIR = ROOT / "bhsa" / "tf"
 DEFAULT_MODULE = os.environ.get("BHSA_MODULE", "2021")
-# DEFAULT_TARGET_WORD = os.environ.get("BHSA_TARGET_WORD", "יהוה")
-DEFAULT_TARGET_WORD = os.environ.get("BHSA_TARGET_WORD", "שלומ")
+DEFAULT_TARGET_WORD = os.environ.get("BHSA_TARGET_WORD", "יהוה")
+# DEFAULT_TARGET_WORD = os.environ.get("BHSA_TARGET_WORD", "שלומ")
 DEFAULT_SUMMARY_BOOK = os.environ.get("BHSA_SUMMARY_BOOK")
 
 FINAL_FORM_TRANSLATION = str.maketrans(
